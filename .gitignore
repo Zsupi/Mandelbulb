@@ -57,3 +57,5 @@ build/
 
 # Ignore all .vs directories created by Visual Studio
 .vs/
+/cmake-build-debug/
+/cmake-build-debug-visual-studio/
