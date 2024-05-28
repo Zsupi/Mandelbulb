@@ -132,7 +132,6 @@ __device__ float2 sdMandelbrot(glm::vec3 p, int maxIter) {
     float power = 8.0f;
     float m = dot(w,w);
 
-    glm::vec4 trap = glm::vec4(abs(w),m);
     float dz = 1.0f;
 
     int i;
