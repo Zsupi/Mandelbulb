@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+# Ignore all build directories
+build/
+
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .bak backup files
+*.bak
+
+# Ignore all .swp files created by vim
+*.swp
+
+# Ignore all .DS_Store files created by Mac OS X
+.DS_Store
+
+# Ignore all .vscode directories created by Visual Studio Code
+.vscode/
+
+# Ignore all .idea directories created by JetBrains IDEs
+.idea/
+
+# Ignore all .vs directories created by Visual Studio
+.vs/
